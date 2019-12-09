@@ -1,0 +1,23 @@
+{
+  "ACCOUNT": {
+    "LOGIN_URL": "https://www.neoworld.io/account/login",
+    "GOOGLE_VERIFY_URL": "https://www.neoworld.io/account/googleverify",
+    "ACCOUNT_URL": "https://www.neoworld.io/account/security?lang=chinese",
+    "WITHDRAW_URL": "https://www.neoworld.io/assets/extract_nash?lang=chinese",
+    "DEPOSIT_URL": "https://www.neoworld.io/assets/billing_nash?lang=chinese",
+    "ADD_ADDRESS_URL": "https://www.neoworld.io/api/doextract_address",
+    "SEND_CODE_API": "https://www.neoworld.io/api/sendEmailCode",
+    "WITHDRAW_API": "https://www.neoworld.io/api/doextract",
+    "ACCOUNT_EMAIL": "",
+    "PASSWORD": "",
+    "GOOGLE_SECRET": "",
+    "EXTRACT_PAGE": "https://www.neoworld.io/account/extract_address",
+    "MAIL_TIME": 20000
+  },
+  "MAIL": {
+    "USER": "",
+    "PASSWORD": "",
+    "HOST": "",
+    "PORT": 
+  }
+}
