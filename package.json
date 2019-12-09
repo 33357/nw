@@ -1,0 +1,13 @@
+{
+  "name": "nw",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "google_authenticator": "^2.0.0",
+    "imap": "^0.8.19",
+    "mailparser": "^2.7.1",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+  }
+}
